@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "auth_fiaptechchallenge": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7037",
+      "launchBrowser": false
+    }
+  }
+}
